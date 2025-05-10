@@ -121,4 +121,3 @@ print(f"Predicted Performance: {prediction[0]:.1f}")
 - Identified **key performance indicators** for student success
 
 
-Would you like me to add any specific academic references or expand on any particular section?
